@@ -1,4 +1,4 @@
-# Unwanted and committed comment
+# Default is "World"
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
